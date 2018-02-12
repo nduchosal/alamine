@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 120 120" style="enable-background:new 0 0 120 120;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#D7EAF8;}
+	.st2{fill:none;stroke:#213F99;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{fill:none;stroke:#273B92;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:none;stroke:#ED2156;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<title>Page 1</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="1" width="120" height="120"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="Page-1_1_" class="st0">
+		<g id="Coworking" transform="translate(-547.000000, -3637.000000)">
+			<g id="Page-1" transform="translate(548.000000, 3638.000000)">
+				<path id="Fill-1" class="st1" d="M94.2,52.2c0,19.6,0,35.4-35.3,35.4S23.6,71.7,23.6,52.2H94.2z"/>
+				<path id="Stroke-3" class="st2" d="M94.2,52.2c0,19.6,0,35.4-35.3,35.4S23.6,71.7,23.6,52.2H94.2z"/>
+				<g id="Group-14" transform="translate(0.000000, 60.062500)">
+					<path id="Stroke-5" class="st3" d="M23,28.7h59.1"/>
+					<path id="Stroke-7" class="st3" d="M89.7,28.7h-4.2"/>
+					<path id="Stroke-9" class="st3" d="M95,28.7h-1.8"/>
+				</g>
+				<path id="Stroke-11" class="st4" d="M59.6,29.2c0.1,1.6-1.7,4-1.7,5.6s1.8,4.1,1.7,5.6c-0.1,1.3-1.7,4.4-1.7,4.4"/>
+				<path id="Stroke-13" class="st4" d="M67.2,35.1c0,1-1.1,2.6-1.1,3.6s1.1,2.6,1.1,3.6c0,0.8-1.1,2.9-1.1,2.9"/>
+				<path id="Stroke-15" class="st4" d="M51.9,34.3c0.1,1.1-1.2,2.8-1.2,3.9c0,1.1,1.2,2.8,1.2,3.9c0,0.9-1.2,3-1.2,3"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,48 @@
+// Hosting Template Buttons
+
+// Primary CTA
+.btn-primary-cta {
+  @include button-variant($btn-primary-cta-color, $btn-primary-cta-bg, $btn-primary-cta-border);
+  border-radius: $border-radius-circular;
+  padding: $ten $fifteen $ten;
+  letter-spacing: $letter_spacing_md;
+  font-size: small;
+  text-transform: uppercase;
+  &:hover {
+    background: darken($btn-primary-cta-bg, 8%);
+    border-color: darken($btn-primary-cta-border, 8%);
+  }
+  &,
+  &:active,
+  &.active {
+    &:focus,
+    &.focus {
+      background: darken($btn-primary-cta-bg, 8%);
+      border-color: darken($btn-primary-cta-border, 8%);
+    }
+  }
+}
+
+
+// Secondary CTA
+.btn-secondary-cta {
+  @include button-variant($btn-secondary-cta-color, $btn-secondary-cta-bg, $btn-secondary-cta-border);
+  border-radius: $border-radius-circular;
+  padding: $ten $twenty-five $ten;
+  letter-spacing: $letter_spacing_md;
+  font-size: small;
+  text-transform: uppercase;
+  &:hover {
+    background: darken($btn-secondary-cta-bg, 2%);
+    border-color: darken($btn-secondary-cta-border, 2%);
+  }
+  &,
+  &:active,
+  &.active {
+    &:focus,
+    &.focus {
+      background: darken($btn-secondary-cta-bg, 3%);
+      border-color: darken($btn-secondary-cta-border, 3%);
+    }
+  }
+}

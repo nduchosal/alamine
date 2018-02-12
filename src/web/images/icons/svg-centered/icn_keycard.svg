@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 120 120" style="enable-background:new 0 0 120 120;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#D7EAF8;stroke:#ED2156;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:none;stroke:#213F99;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{fill:#D7EAF8;}
+	.st4{fill:none;stroke:#273B92;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<title>Page 1</title>
+<desc>Created with Sketch.</desc>
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="1" width="120" height="120"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="Page-1_1_" class="st0">
+		<g id="Coworking" transform="translate(-846.000000, -3637.000000)">
+			<g id="Page-1" transform="translate(847.000000, 3638.000000)">
+				<polygon id="Stroke-1" class="st1" points="37.8,81.8 80.2,81.8 80.2,72.1 37.8,72.1 				"/>
+				<polygon id="Stroke-3" class="st2" points="37.8,89.7 80.2,89.7 80.2,28.3 37.8,28.3 				"/>
+				<path id="Fill-4" class="st3" d="M60.4,39.2c2.1,2.9,1.4,6.9-1.5,8.9C56,50.2,52,49.5,50,46.6c-2.1-2.9-1.4-6.9,1.5-8.9
+					C54.4,35.7,58.4,36.4,60.4,39.2"/>
+				<path id="Stroke-5" class="st4" d="M60.4,39.2c2.1,2.9,1.4,6.9-1.5,8.9C56,50.2,52,49.5,50,46.6c-2.1-2.9-1.4-6.9,1.5-8.9
+					C54.4,35.7,58.4,36.4,60.4,39.2z"/>
+				<path id="Stroke-6" class="st4" d="M69.1,62.3L59,48.2"/>
+				<path id="Stroke-7" class="st4" d="M67.6,60.1l-5.2,3.7"/>
+				<path id="Stroke-8" class="st4" d="M64.7,56.1l-3.9,2.8"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

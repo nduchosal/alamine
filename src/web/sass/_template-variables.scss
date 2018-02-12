@@ -1,0 +1,76 @@
+// Coworking Variables
+
+// Colours
+
+$primary:                     #FF1053;
+$secondary:                   #233796;
+$text_color:                  #2F3860;
+$light_bg:                    #F6F7F8;
+$light_border:                darken(#F6F7F8,2%);
+$white:                       #FFFFFF;
+
+// Button Colours
+$btn-primary-cta-color:       $white;
+$btn-primary-cta-bg:          $primary;
+$btn-primary-cta-border:      $primary;
+
+$btn-secondary-cta-color:       $white;
+$btn-secondary-cta-bg:          $secondary;
+$btn-secondary-cta-border:      $secondary;
+
+// Border Radius
+$border-radius-none:          0;
+$border-radius-circular:      3.125rem; // ~50px
+
+// Text
+
+$letter_spacing_sm:           1px;
+$letter_spacing_md:           2px;
+$letter_spacing_lg:           5px;
+
+
+// Navbar
+$navbar-height:               70px !default;
+
+
+// Values
+
+$zero                     :0px;
+$one                      :1px;
+$two                      :2px;
+$three                    :3px;
+$four                     :4px;
+$five                     :5px;
+$six                      :6px;
+$seven                    :7px;
+$eight                    :8px;
+$nine                     :9px;
+$ten                      :10px;
+$fifteen                  :15px;
+$twenty                   :20px;
+$twenty-five              :25px;
+$thirty                   :30px;
+$thirty-five              :35px;
+$forty                    :40px;
+$forty-five               :45px;
+$fifty                    :50px;
+$fifty-five               :55px;
+$sixty                    :60px;
+$sixty-five               :65px;
+$seventy                  :70px;
+$seventy-five             :75px;
+$eighty                   :80px;
+$eighty-five              :85px;
+$ninety                   :90px;
+$ninety-five              :95px;
+$hundred                  :100px;
+$hundred-ten              :110px;
+$hundred-twenty           :120px;
+$hundred-thirty           :130px;
+$hundred-forty            :140px;
+$hundred-fifty            :150px;
+$hundred-sixty            :160px;
+$hundred-seventy          :170px;
+$hundred-eighty           :180px;
+$hundred-ninety           :190px;
+$twohundred               :200px;
