@@ -1,0 +1,17 @@
+
+.affix { 
+    z-index: 9999 !important; 
+    top: 25px;
+    right: 25px;
+}
+
+#panier {
+    background: $white; 
+    .panier_wrap {
+    padding: 25px;
+    
+    .produit {
+        font-weight: bolder;
+    }
+    }
+}
